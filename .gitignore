@@ -1,5 +1,5 @@
 venv/
 __pycache__/
 *.pyc
-*.sqlite3  # Optional: if you want to ignore your dev DB
+*.sqlite3  
 .vscode/
